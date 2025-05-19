@@ -1,4 +1,5 @@
-Folder PATH listing
+# javascript-exercices forked from TheOdinProject/javascript-exercises
+<pre>
 Volume serial number is 0000002E AA58:195E
 C:\USERS\LOCALEPSILON\DOCUMENTS\_QUARTER3\NO_NODE_MODULES\JAVASCRIPT-EXERCISES
 |   .eslintignore
@@ -206,3 +207,4 @@ C:\USERS\LOCALEPSILON\DOCUMENTS\_QUARTER3\NO_NODE_MODULES\JAVASCRIPT-EXERCISES
         writeExerciseSpec.js
         writeReadme.js
         
+</pre>
